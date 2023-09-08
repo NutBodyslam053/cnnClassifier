@@ -37,3 +37,4 @@ Workflows:
 7. Update the pipeline
 8. Update main.py
 ```
+7. Create app.py & src/cnnClassifier/pipeline/predict.py
